@@ -1,0 +1,9 @@
+{
+  "name": "Desafio03",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ProductManager.js",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
